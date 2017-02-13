@@ -61,7 +61,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
 
 
-## Shell
+## CLI
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.

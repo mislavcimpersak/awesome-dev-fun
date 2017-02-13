@@ -5,6 +5,3 @@ site_author: Mislav Cimperšak
 repo_url: https://github.com/mislavcimpersak/awesome-fun
 theme: readthedocs
 google_analytics: ['UA-64090289-2', 'auto']
-pages:
-  - "All the fun in a single page": "README.md"
-  - "Contributing guide": "CONTRIBUTING.md"

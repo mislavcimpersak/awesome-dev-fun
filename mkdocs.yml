@@ -1,7 +1,0 @@
-site_name: Awesome Fun
-site_url: https://awesome-fun.readthedocs.io
-site_description: A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
-site_author: Mislav Cimperšak
-repo_url: https://github.com/mislavcimpersak/awesome-fun
-theme: readthedocs
-google_analytics: ['UA-64090289-2', 'auto']

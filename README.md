@@ -1,7 +1,8 @@
 # Awesome fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-
 > A curated list of awesome fun libs/packages/languages that have no real purpose but to make a developer chuckle.
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 For now this is a really short list, so please contribute. Read [the guide](CONTRIBUTING.md) and make a merge request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 

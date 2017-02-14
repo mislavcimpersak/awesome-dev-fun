@@ -73,3 +73,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!

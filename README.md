@@ -74,3 +74,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
 - [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.

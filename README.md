@@ -76,3 +76,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [lolcommits](https://github.com/mroth/lolcommits) - git-based selfies for software developers.
+- [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".

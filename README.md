@@ -13,6 +13,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Languages](#languages)
 - [SaaS](#saas)
 - [Browser extensions](#browser-extensions)
@@ -50,6 +51,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
+
+
+## Ruby
+
+- [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
 
 
 ## Languages

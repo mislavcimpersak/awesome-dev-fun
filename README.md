@@ -32,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## JavaScript
 
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. 
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 * [Fapfap.js](http://fapfapjs.io) - Handcrafted javascript framework for DIY enthusiasts.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) - Javascript Error Steamroller.
@@ -57,6 +57,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Ruby
 
 - [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
+- [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
 
 ## Languages

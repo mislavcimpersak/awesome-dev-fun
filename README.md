@@ -32,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## JavaScript
 
-- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator. 
+- [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 * [Fapfap.js](http://fapfapjs.io) - Handcrafted javascript framework for DIY enthusiasts.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) - Javascript Error Steamroller.
@@ -41,6 +41,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass javascript library on steroids.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - A universal, intercultural and user-friendly way to display numbers.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
 
 
 ## PHP
@@ -57,12 +58,14 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Ruby
 
 - [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
+- [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
 
 ## Languages
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
 
 
 ## SaaS

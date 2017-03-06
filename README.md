@@ -43,6 +43,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - A universal, intercultural and user-friendly way to display numbers.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
+- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA
 
 
 ## PHP

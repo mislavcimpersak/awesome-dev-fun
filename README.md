@@ -94,4 +94,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Miscellaneous
-- [Filefile](https://github.com/cobyism/Filefile) - A file to keep track of all the files you have in your repo that end in "file".
+- [Filefile](https://github.com/cobyism/Filefile) - A file to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile)

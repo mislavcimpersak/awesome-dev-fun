@@ -24,7 +24,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
-- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - A terrible terrible soft-keyboard that randomises keys on every press.
+- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
 
 
 ## Haskell
@@ -41,7 +41,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your js from StackOverflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass javascript library on steroids.
-- [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - A universal, intercultural and user-friendly way to display numbers.
+- [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA
@@ -94,4 +94,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Miscellaneous
-- [Filefile](https://github.com/cobyism/Filefile) - A file to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile)
+- [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile)

@@ -8,6 +8,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Contents
 
 - [Android](#android)
+- [Elixir](#elixir)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [PHP](#php)
@@ -24,6 +25,10 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
 - [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
+
+
+## Elixir
+- [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 
 ## Haskell

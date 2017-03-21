@@ -8,6 +8,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Contents
 
 - [Android](#android)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)

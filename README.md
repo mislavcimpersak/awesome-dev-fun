@@ -85,6 +85,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Browser extensions
 
 - [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
+- [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - Incognito Mode for extroverts.
 
 
 ## CLI

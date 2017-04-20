@@ -48,8 +48,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
-- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
-- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA
+- [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
+- [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
 
 
@@ -74,7 +74,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
-- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
+- [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language.
 
 
 ## SaaS
@@ -102,4 +102,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Miscellaneous
-- [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile)
+- [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).

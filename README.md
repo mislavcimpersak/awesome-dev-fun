@@ -1,8 +1,8 @@
-# Awesome dev fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
-For now this is a really short list, so please contribute. Read [the guide](CONTRIBUTING.md) and make a merge request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
+For now this is a really short list, so please contribute. Read [the guide](CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
 ## Contents

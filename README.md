@@ -43,7 +43,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
-- [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from StackOverflow.
+- [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 - [Sarcasm](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.

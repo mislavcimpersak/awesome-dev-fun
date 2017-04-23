@@ -72,7 +72,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Languages
 
-Languages designed for reasons *other* than production usage or research are typically called **esoteric programming languages**, or **esolangs** for short.  The idea is popular enough to warrant its own list (and in fact, there's one in progress).  Here's a few interesting ones.
+Languages designed for reasons *other* than production usage or research are typically called **esoteric programming languages**, or **esolangs** for short.  They're so cool, they deserve their own list; in fact, there's one in progress, and we'll link to it when it's ready!
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
 - [Brainfuck](https://esolangs.org/wiki/Brainfuck) - The father of the entire trend.

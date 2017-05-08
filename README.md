@@ -51,6 +51,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
+- [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
 
 ## PHP

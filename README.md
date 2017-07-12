@@ -14,7 +14,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
-- [Languages](#languages)
+- [Esoteric languages](#esoteric-languages)
 - [SaaS](#saas)
 - [Browser extensions](#browser-extensions)
 - [CLI](#cli)
@@ -71,7 +71,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Base](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
 
-## Languages
+## Esoteric languages
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.

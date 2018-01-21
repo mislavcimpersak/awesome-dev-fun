@@ -103,6 +103,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [lolcommits](https://github.com/mroth/lolcommits) - Git-based selfies for software developers.
 - [sl](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
+- [fat](https://github.com/drummyfish/fat) - Expand your files.
 
 
 ## Miscellaneous

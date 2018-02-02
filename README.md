@@ -52,6 +52,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [fattest-cat](https://github.com/lexiross/fattest-cat) - Script to find fattest cat currently up for adoption at SF SPCA.
 - [fartscroll.js](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
 - [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
+- [cannot-even](https://github.com/blakek/cannot-even) - A module that refuses to even.
 
 
 ## PHP

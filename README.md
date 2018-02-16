@@ -107,6 +107,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 - [fat](https://github.com/drummyfish/fat) - Expand your files.
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+- [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
+
 
 
 ## DevOps

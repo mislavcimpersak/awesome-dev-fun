@@ -118,3 +118,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Miscellaneous
 - [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
+- [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.

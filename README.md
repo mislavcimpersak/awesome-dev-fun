@@ -103,3 +103,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Miscellaneous
 - [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
+- [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.

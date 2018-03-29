@@ -87,7 +87,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
-- [/dev/null as a Service](https://devnull-as-a-service.com/) - The first DaaS provider.
+- [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 
 
 ## Browser extensions

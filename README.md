@@ -81,6 +81,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language.
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
+- [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 
 
 ## SaaS

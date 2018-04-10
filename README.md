@@ -10,6 +10,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Android](#android)
 - [Elixir](#elixir)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)

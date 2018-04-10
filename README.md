@@ -11,6 +11,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Elixir](#elixir)
 - [Golang](#golang)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)
@@ -40,6 +41,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Haskell
 - [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
+
+
+## Java
+
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 
 ## JavaScript

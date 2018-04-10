@@ -37,6 +37,11 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
 
 
+## Java
+
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+
+
 ## JavaScript
 
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.

@@ -9,6 +9,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [Android](#android)
 - [Elixir](#elixir)
+- [Golang](#golang)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -32,6 +33,10 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Elixir
 - [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir!
+
+
+## Golang
+- [gomatrix](https://github.com/GeertJohan/gomatrix) - gomatrix connects to The Matrix and displays it's data streams in your terminal.
 
 
 ## Haskell

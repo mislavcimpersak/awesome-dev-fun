@@ -11,6 +11,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Elixir](#elixir)
 - [Golang](#golang)
 - [Haskell](#haskell)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [PHP](#php)
@@ -42,6 +43,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Haskell
 - [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
 
+## HTML
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays
 
 ## Java
 

@@ -37,7 +37,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 
 ## Golang
-- [gomatrix](https://github.com/GeertJohan/gomatrix) - gomatrix connects to The Matrix and displays it's data streams in your terminal.
+- [gomatrix](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
 
 
 ## Haskell

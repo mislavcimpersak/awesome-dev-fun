@@ -9,7 +9,10 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [Android](#android)
 - [Elixir](#elixir)
+- [Golang](#golang)
 - [Haskell](#haskell)
+- [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)
@@ -33,8 +36,19 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 
+## Golang
+- [gomatrix](https://github.com/GeertJohan/gomatrix) - gomatrix connects to The Matrix and displays it's data streams in your terminal.
+
+
 ## Haskell
 - [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
+
+## HTML
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays
+
+## Java
+
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 
 ## JavaScript
@@ -113,6 +127,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
 
 
 ## DevOps
@@ -125,4 +140,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
 - [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
-- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.

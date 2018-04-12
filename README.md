@@ -83,6 +83,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
+- [FuckIt.py](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 
 
 ## Ruby

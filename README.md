@@ -136,7 +136,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
-- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for zsh
+- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
 
 
 ## DevOps

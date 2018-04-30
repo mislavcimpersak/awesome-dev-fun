@@ -151,3 +151,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
 - [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
+- [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.

@@ -90,6 +90,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
+- [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram
 
 
 ## Ruby

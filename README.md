@@ -79,7 +79,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
-- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
 
 ## PHP
@@ -117,6 +116,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Fuck off as a Service](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
+- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
 
 ## Browser extensions

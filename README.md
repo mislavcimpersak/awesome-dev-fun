@@ -79,6 +79,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
+- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 
 
 ## PHP
@@ -108,7 +109,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language.
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
-- [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics. 
+- [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
 
 
 ## SaaS
@@ -162,5 +163,4 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 - [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archived).
-- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - 
-Awesome list of repositories of awesome lists 🤷
+- [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷

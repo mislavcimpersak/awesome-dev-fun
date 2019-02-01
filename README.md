@@ -117,6 +117,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - ~~[Booleans as a Service](https://booleans.io/) - Create, read, update & delete boolean.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 - [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
+- [shoutcloud.io](http://shoutcloud.io/) - ALL CAPS AS A SERVICE. ⬆️
 
 
 ## Browser extensions

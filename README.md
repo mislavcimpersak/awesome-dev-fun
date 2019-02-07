@@ -79,6 +79,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) - "undefined is not a function"? — It is now!
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
+- [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 
 
 ## PHP

@@ -120,6 +120,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [/dev/null as a Service](https://devnull-as-a-service.com) - The first DaaS provider.
 - [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - Corporate bullshit generator that randomly picks out phrases, which can help your application get ahead in an industry where spin, buzzwords and vagueness reign supreme.
 - [shoutcloud.io](http://shoutcloud.io/) - ALL CAPS AS A SERVICE. ⬆️
+- [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 
 
 ## Browser extensions

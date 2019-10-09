@@ -62,6 +62,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## JavaScript
 
+- [jsFuck](https://github.com/aemkei/jsfuck)
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
 - [Elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.

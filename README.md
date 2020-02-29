@@ -96,7 +96,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
 - [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 - [RoastBot](https://github.com/Tylersuard/RoastBot) - A chatbot that insults its user.
-
+- [ErrorFlow](https://github.com/SudoPseudo/ErrorFlow) - Lightweight version of TensorFlow with the same functionality: It never works and only outputs errors.
 
 ## Ruby
 

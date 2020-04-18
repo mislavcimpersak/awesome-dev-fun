@@ -155,7 +155,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - Make it digital rain in your terminal like The Matrix.
 - [Gosleap](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen.
-
+- [nSnake](https://github.com/alexdantas/nSnake) - Snake game in terminal!
 
 ## DevOps
 - [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.

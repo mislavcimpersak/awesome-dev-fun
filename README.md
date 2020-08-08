@@ -84,6 +84,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Pettier](https://github.com/coleturner/pettier) - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
 - [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
+- [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) - The ESLint plugin you definitely didn’t ask for.
 
 
 ## PHP

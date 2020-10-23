@@ -116,6 +116,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Spooky](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 - [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
+- [strategic-communication](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
 
 
 ## SaaS
@@ -164,7 +165,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [Volkswagen](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
-
 
 
 ## Miscellaneous

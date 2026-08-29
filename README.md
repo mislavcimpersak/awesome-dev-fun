@@ -97,6 +97,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Python
 
+- [EnterpriseFizzBuzz](https://github.com/Elijah-J/EnterpriseFizzBuzz) - 622K lines of production-grade enterprise architecture for computing n % 3. Features 253 infrastructure subsystems including a blockchain, neural network, quantum simulator, and OS kernel. Operated by Bob McFizzington.
 - [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
 - [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
